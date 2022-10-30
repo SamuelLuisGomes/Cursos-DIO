@@ -1,0 +1,15 @@
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\bin\Debug\net6.0\Fundamentos.exe
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\bin\Debug\net6.0\Fundamentos.deps.json
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\bin\Debug\net6.0\Fundamentos.runtimeconfig.json
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\bin\Debug\net6.0\Fundamentos.dll
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\bin\Debug\net6.0\Fundamentos.pdb
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.AssemblyReference.cache
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfoInputs.cache
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfo.cs
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.dll
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\refint\Fundamentos.dll
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.pdb
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\Fundamentos.genruntimeconfig.cache
+C:\workspace\DIO\Cursos-DIO\Pottencial .NET Developer\Conhecendo.NET\Fundamentos\obj\Debug\net6.0\ref\Fundamentos.dll
