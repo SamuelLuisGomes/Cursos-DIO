@@ -1,11 +1,22 @@
 ﻿using Fundamentos.Models; // Caminho referente a pasta Models e a class Pessoa está dentro dessa pasta.
 
+//---Conversão de String---
+
+// int inteiro = 5; // Declarando 
+// string a = inteiro.ToString(); // Convertendo 
+
+//---Tipos de Conversão---
+// Cast - Casting
+
+// Declarando e exibindo a variável
+// Convertendo
+// Convert == int a = Convert.ToInt32("2");
+// Parse == int a = int.Parce("2");
+
+
 // ---Tipo DataTime---
-DateTime dataAtual = DateTime.Now; // Declarando uma DateTime
-Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm")); // Configurando o formato do DateTime 
-
-
-
+// DateTime dataAtual = DateTime.Now; // Declarando uma DateTime
+// Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm")); // Configurando o formato do DateTime 
 
 // ---Tipos de Dados---
 // string apresentacao  = "Olá, seja bem vindo!";
