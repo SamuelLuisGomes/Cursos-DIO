@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Fundamentos.csproj",
+                "${workspaceFolder}/ExemploFundamentos/Fundamentos.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Fundamentos.csproj",
+                "${workspaceFolder}/ExemploFundamentos/Fundamentos.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Fundamentos.csproj"
+                "${workspaceFolder}/ExemploFundamentos/Fundamentos.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
